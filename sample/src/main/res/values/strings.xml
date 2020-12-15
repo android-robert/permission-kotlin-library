@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Permissions Kotlin</string>
+    <string name="single">Single Permission</string>
+    <string name="multiple">Multiple Permissions</string>
+    <string name="customized">Customized</string>
+    <string name="app_settings">App Settings</string>
+</resources>
